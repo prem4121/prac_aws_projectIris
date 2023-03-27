@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+flask=2.2.3=pypi_0
+numpy=1.24.2=pypi_0
+pandas=1.5.3=pypi_0
+scikit-learn=1.2.2=pypi_0
